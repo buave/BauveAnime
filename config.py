@@ -1,0 +1,3 @@
+TOKEN = "<TOKEN>"
+LOGIN_FTP = "<LOGIN_FTP>"
+URL_API = "<URL_API>"
